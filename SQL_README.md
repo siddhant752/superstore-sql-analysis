@@ -98,12 +98,6 @@ jupyter notebook Superstore_SQL_Analysis.ipynb
 
 ---
 
-## 🔮 Future Work
-
-Cohort analysis · Market basket analysis · Predictive CLV model · Power BI executive dashboard
-
----
-
 ## 👤 Author
 
 **Siddhant Bhandari** | MS Business Analytics | Available for DA / BI Analyst roles (OPT)
