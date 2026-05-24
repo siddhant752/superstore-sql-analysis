@@ -78,7 +78,7 @@ superstore-sql-analysis/
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/superstore-sql-analysis.git
+git clone https://github.com/siddhant752/superstore-sql-analysis.git
 cd superstore-sql-analysis
 pip install pandas matplotlib seaborn jupyter
 jupyter notebook Superstore_SQL_Analysis.ipynb
@@ -100,7 +100,7 @@ jupyter notebook Superstore_SQL_Analysis.ipynb
 
 ## 👤 Author
 
-**Siddhant Bhandari** | MS Business Analytics | Available for DA / BI Analyst roles (OPT)
+**Siddhant Bhandari** | MS Business Analytics | Available for DA / BI Analyst or related roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhantb9)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siddhant752)
